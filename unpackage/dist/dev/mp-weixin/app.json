@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/eatting/eatting",
+    "pages/eat_help/eat_help",
+    "pages/mine/mine"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#1296db",
+    "backgroundColor": "#f3f3f3"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#1296db",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tab/index.png",
+        "selectedIconPath": "static/tab/index-h.png"
+      },
+      {
+        "pagePath": "pages/eatting/eatting",
+        "text": "食话",
+        "iconPath": "static/tab/topic.png",
+        "selectedIconPath": "static/tab/topic-h.png"
+      },
+      {
+        "pagePath": "pages/eat_help/eat_help",
+        "text": "帮助",
+        "iconPath": "static/tab/help.png",
+        "selectedIconPath": "static/tab/help-h.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/tab/mine.png",
+        "selectedIconPath": "static/tab/mine-h.png"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap90.json"
+}

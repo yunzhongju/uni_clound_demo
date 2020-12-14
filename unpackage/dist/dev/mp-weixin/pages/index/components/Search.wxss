@@ -1,0 +1,11 @@
+
+.my-search.data-v-3132ae7b{
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	line-height: 80rpx;
+	background-image: -webkit-gradient(linear,left bottom, left top,color-stop(20%, #007AFF),color-stop(50%, #00ffff),to(#1296db));
+	background-image: -webkit-linear-gradient(bottom,#007AFF 20%,#00ffff 50%,#1296db 100%);
+	background-image: linear-gradient(to top,#007AFF 20%,#00ffff 50%,#1296db 100%);
+	padding: 20rpx 20rpx;
+}
+

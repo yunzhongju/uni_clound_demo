@@ -1,0 +1,1 @@
+<view class="my-search data-v-3132ae7b"><u-search vue-id="15b8bc2a-1" show-action="{{false}}" height="80" placeholder="日照香炉生紫烟" disabled="{{true}}" class="data-v-3132ae7b" bind:__l="__l"></u-search></view>

@@ -1,0 +1,1 @@
+<view class="my-swiper data-v-6fa2c977"><u-swiper vue-id="f6923322-1" height="200" border-radius="30" list="{{list}}" class="data-v-6fa2c977" bind:__l="__l"></u-swiper></view>

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "my-search": "/pages/index/components/Search",
+    "my-swipers": "/pages/index/components/Swipers",
+    "my-swipers2": "/pages/index/components/Swiper2",
+    "my-hot": "/pages/index/components/Hot",
+    "my-tabs": "/pages/index/components/Tabs",
+    "my-list": "/pages/index/components/ShowList",
+    "my-recomment": "/pages/index/components/Recomment"
+  }
+}

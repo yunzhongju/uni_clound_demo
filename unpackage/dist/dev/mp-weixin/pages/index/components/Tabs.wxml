@@ -1,0 +1,1 @@
+<view><u-sticky vue-id="21cc0f15-1" bind:__l="__l" vue-slots="{{['default']}}"><u-tabs vue-id="{{('21cc0f15-2')+','+('21cc0f15-1')}}" list="{{list}}" current="{{current}}" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" bind:__l="__l"></u-tabs></u-sticky></view>
